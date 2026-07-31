@@ -26,7 +26,7 @@ The table below summarises the expected functional testing to be carried out dur
 
 # Testing Results
 The following tests were carried out during the development of **Alien Evasion** to ensure the game functioned correctly.
-Screenshots were included in the test results to verify and prove actual results.
+Screenshots were included in the original test results document to verify and prove actual results.
 
 | Test No | Test Description | Expected Result | Actual Result | Status |
 |:-------:|------------------|-----------------|---------------|:------:|
