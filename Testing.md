@@ -1,7 +1,7 @@
 # Alien Evasion Testing 
 
+## Test plan 
 
-##Test plan 
 Test no	Test description	Expected result
 1	test gravity applied to ufo character	Ufo falls downwards.
 2	test character movement (key press)	Will bounce upwards on each press.
