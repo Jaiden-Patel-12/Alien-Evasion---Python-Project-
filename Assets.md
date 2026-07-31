@@ -1,6 +1,6 @@
 # Game Assets
 
-The following assets were used during the development of **Alien Evasion**.
+This table shows the assets which were used in the development of **Alien Evasion**.
 
 | Asset | Type | Purpose |
 |-------|------|---------|
