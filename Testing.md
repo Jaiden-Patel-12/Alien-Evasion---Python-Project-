@@ -1,9 +1,6 @@
 # Alien Evasion Testing 
 
 ## Test plan 
-
-# Testing
-
 The table below summarises the expected functional testing to be carried out during the development of **Alien Evasion**.
 
 | Test No | Test Description | Expected Result | Status |
