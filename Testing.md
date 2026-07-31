@@ -24,6 +24,5 @@ The table below summarises the expected functional testing to be carried out dur
 | 14 | Alien height during gameplay | Aliens spawn at different heights chosen randomly from a predefined list. | ✅ Pass |
 | 15 | Alien gap during gameplay | Gap between alien pairs is selected randomly from the available values. | ✅ Pass |
 | 16 | Random UFO selection | One of four UFO sprites is selected randomly each time a new game starts. | ✅ Pass |
-| 17 | *(No test recorded in original testing document.)* | N/A | — |
-| 18 | UFO animation points downwards | When the Space key is not being pressed, the UFO points downwards. | ✅ Pass |
-| 19 | Game Over collision test | Game Over screen is displayed after a collision. | ✅ Pass |
+| 17 | UFO animation points downwards | When the Space key is not being pressed, the UFO points downwards. | ✅ Pass |
+| 18 | Game Over collision test | Game Over screen is displayed after a collision. | ✅ Pass |
