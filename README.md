@@ -30,3 +30,7 @@ A 2D arcade-style arcade game developed in Python using Pygame as part of my BTE
 ## About the Project
 
 This project was built from scratch and consists of approximately 2300 lines of Python code. During development I solved programming challenges such as obstacle scaling, collision detection accuracy and gameplay balancing through iterative testing.
+
+##Start Screen
+<img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/bda0d397-aa96-45f2-b5c5-65a62f2fb699" />
+
