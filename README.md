@@ -37,8 +37,8 @@ Watch on YouTube: https://youtube.com/shorts/xwsxQg1qc9k?feature=share
 Start Screen
 <img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/bda0d397-aa96-45f2-b5c5-65a62f2fb699" />
 
-
 Gameplay Screen
+
 <img width="691" height="632" alt="image" src="https://github.com/user-attachments/assets/0b7a5dc1-0772-41bb-9a38-0cf662ec06e6" />
 
 Game Over Screen
