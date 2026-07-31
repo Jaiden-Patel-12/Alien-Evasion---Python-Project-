@@ -1,6 +1,6 @@
 # Alien-Evasion---Python-Project-
 
-A 2D arcade-style arcade game developed in Python using Pygame as part of my BTEC Extended Diploma in Information Technology.
+Alien Evasion is a 2D arcade-style game developed in Python using modules such as Pygame as part of my BTEC Extended Diploma in Information Technology.
 
 ## Features
 - Player-controlled spaceship
@@ -12,14 +12,12 @@ A 2D arcade-style arcade game developed in Python using Pygame as part of my BTE
 - Interactive sounds
 
 ## Technologies Used
-
-- Python
-- Pygame
-- Random
-- Visual Studio
+- Python Prohramming
+- Pygame Module
+- Random Module
+- Visual Studio Developmen Enviroment
 
 ## Skills Demonstrated
-
 - Object-oriented programming
 - Debugging and testing
 - Event handling
@@ -29,9 +27,9 @@ A 2D arcade-style arcade game developed in Python using Pygame as part of my BTE
 
 ## About the Project
 
-This project was built from scratch and consists of 396 lines of Python code. During development I solved programming challenges such as obstacle scaling, collision detection accuracy and gameplay balancing through iterative testing.
+This project was built from scratch and consists of 396 lines of Python code. During development I solved programming challenges such as obstacle scaling, collision detection accuracy and gameplay balancing through iterative and iterative testing.
 
-Gameplay Video
+## Gameplay Video
 Watch on YouTube: https://youtube.com/shorts/xwsxQg1qc9k?feature=share
 
 ## Start Screen
